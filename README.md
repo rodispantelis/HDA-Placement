@@ -1,6 +1,6 @@
 ## Hyper-Distributed Applications Placement across the Computing Continuum
 
-<summary><H2>Algorithms and simulation tools</H2></summary>
+<H2>Algorithms and simulation tools</H2>
 
 incorporates the following embedding methods
 
