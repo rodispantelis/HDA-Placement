@@ -15,4 +15,3 @@ from console (use jdk-18) without changing the file structure.
 
 [Documentation.](https://rodispantelis.github.io/HDA-Placement/)
 
-</details>
