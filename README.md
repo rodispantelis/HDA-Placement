@@ -2,7 +2,10 @@
 
 ### Algorithms and simulation tools
 
-incorporates the following embedding methods
+This project is based on the [SFV_Embedding](https://github.com/rodispantelis/SFC-Embedding) project 
+and incorporates the following HDA placement methods
+
+* **Hybrid Framework**.
 
 * **Genetic Algorithm**.
 
