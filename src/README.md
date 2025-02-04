@@ -1,6 +1,6 @@
 ### Source Code documentation
 
-Eclipse Java projexts
+Eclipse Java projects
 
 * **[ANN-DL_v2](https://rodispantelis.github.io/HDA-Placement/src/ANN-DL_v2/doc)**.
 
