@@ -1,22 +1,26 @@
-## Hyper-Distributed Applications Placement across the Computing Continuum
+## Hyper-Distributed Applications Placement across the Compute Continuum
 
-### Algorithms and simulation tools
+### Algorithms and simulation tools, used in [1]
 
 This project is based on the [SFC-Embedding](https://github.com/rodispantelis/SFC-Embedding) project 
 and incorporates the following HDA placement methods
 
-* **Hybrid Framework**.
+* **GA\DDL for multi-PoP network**.
 
-* **Genetic Algorithm**.
+* **Genetic Algorithm for multi-PoP and single Data Center networks**.
 
-* **Distributed Deep Learning**. 
+* **Distributed Deep Learning for single Data Center substrate network**. 
 
-* **Distributed Greedy algorithm**.
+* **Distributed Greedy algorithm for multi-PoP and single Data Center networks**.
 
-A simple way to test these algorithms is to download the whole repository and run the executable [.jar files](algorithms_v2/jar), 
+A simple way to test these algorithms is to download the whole repository and run the executable [.jar files](https://github.com/rodispantelis/HDA-Placement/jar), 
 from console (use jdk-18) without changing the file structure.
 
-[Documentation.](https://rodispantelis.github.io/HDA-Placement/)
+[Documentation.](https://rodispantelis.github.io/HDA-Placement/src)
+
+---
+[1] Rodis P. and Papadimitriou P. (2025). "AI-Assisted Multi-Layer Resource Optimization for Hyper-Distributed Cloud Applications", 
+submitted for publication.
 
 
 
