@@ -31,7 +31,7 @@ Running parameters for all supported algorithms are defined in the following fil
 output:
 
 ```
-<HDA configuration ID + request ID>:
+<Request ID (HDA configuration ID + request serial)>:
 [mapping of HDA-graph segments to PoPs]
 -------
 #<PoP ID>[mapping of components to servers]
