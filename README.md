@@ -2,8 +2,8 @@
 
 ### Algorithms and simulation tools used in [1]
 
-This project is based on the [SFC-Embedding](https://github.com/rodispantelis/SFC-Embedding) project 
-and incorporates the following HDA placement methods
+This project is based on the [SFC-Embedding project](https://github.com/rodispantelis/SFC-Embedding) and 
+incorporates the following HDA placement methods
 
 * **GA\DDL for multi-PoP network**.
 

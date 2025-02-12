@@ -283,11 +283,11 @@ public class Main extends Thread{
 		}
 		
  		if(domains<3 && mode==(-1)) {
-			System.out.println("Hybrid Distributed Multiagent Algorithm\n"
+			System.out.println("GA\\DDL Distributed Multiagent Algorithm\n"
 					+ "for HDA Placement across Computing Continuum\n");
 			
 			System.out.println("ERROR: \t Invalid parameter settings.\n"+
-					"Hybrid algorithm requires to use topology of more than 2 DCs.");
+					"GA\\DDL algorithm requires to use topology of more than 2 DCs.");
  		}else if(boolparams[0]==true && domains>1 && (mode==5 || mode==(-1))){
  			System.out.println("ERROR: \t Invalid parameter settings.\n"+
 					"PAGA should be used in single DC topology.");
@@ -316,7 +316,7 @@ public class Main extends Thread{
 		}else if(mode==1) {
 			System.out.println("Distributed Multiagent Greedy Algorithm\n"+ across);
 		}else if(mode==(-1)){
-			System.out.println("Hybrid Distributed Multiagent Algorithm\n"+ across);
+			System.out.println("GA\\DDL Distributed Multiagent Algorithm\n"+ across);
 		}else {
 			System.out.println("Distributed Multiagent Deep Learning Algorithm\n"+across);
 		}
