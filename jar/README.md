@@ -31,11 +31,11 @@ Running parameters for all supported algorithms are defined in the following fil
 output:
 
 ```
-<HDA configuration>:
-[mapping of components to PoPs]
+<HDA configuration ID + request ID>:
+[mapping of HDA-graph segments to PoPs]
 -------
-#<PoP ID>[intra-PoP mapping]
-#<PoP ID>[intra-PoP mapping]
+#<PoP ID>[mapping of components to servers]
+#<PoP ID>[mapping of components to servers]
 ```
 
 example:
@@ -51,7 +51,7 @@ example:
 The simulation on default configuration generates a log file for the meta-orchistrator named *simulationresult-distr-HG.csv*
 
 <details>
-<summary>fields description</summary>
+<summary>fields descriptions</summary>
 
 1.Request serial number
 
@@ -93,7 +93,7 @@ The simulation on default configuration generates a log file for the meta-orchis
 
 Changing storestats parameter in the parameters file to *false* generates log files for all PoPs named *simulationresult-distr-<PoP ID>.csv*
 <details>
-<summary>fields description</summary>
+<summary>fields descriptions</summary>
 
 1.Request serial number
 
