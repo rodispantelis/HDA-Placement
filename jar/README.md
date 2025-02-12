@@ -30,19 +30,20 @@ Running parameters for all supported algorithms are defined in the following fil
 
 output:
 
-`
+```
 <HDA configuration>:
 [mapping of components to PoPs]
 -------
 #<PoP ID>[intra-PoP mapping]
 #<PoP ID>[intra-PoP mapping]
-`
+```
 
 example:
-`
+
+```
 3000001:
 [22, 22, 22, 1, 1]
 -------
 #22[0, 0, 0]
 #1[0, 0]
-`
+```
