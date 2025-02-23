@@ -2,7 +2,7 @@
 
 Start the simulation by running.
 
-```shell
+```console
 
 java -Xmx4g -jar HDA_Placement.jar
 
@@ -30,7 +30,7 @@ Running parameters for all supported algorithms are defined in the following fil
 
 output:
 
-```bash
+```console
 <Request ID (HDA configuration ID + request serial)>:
 [mapping of HDA-graph segments to PoPs]
 -------
