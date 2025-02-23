@@ -30,7 +30,7 @@ Running parameters for all supported algorithms are defined in the following fil
 
 output:
 
-```
+```bash
 <Request ID (HDA configuration ID + request serial)>:
 [mapping of HDA-graph segments to PoPs]
 -------
@@ -40,7 +40,7 @@ output:
 
 example:
 
-```
+```shell
 3000001:
 [22, 22, 22, 1, 1]
 -------
