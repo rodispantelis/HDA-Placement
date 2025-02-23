@@ -2,7 +2,7 @@
 
 Start the simulation by running.
 
-```console
+```shell
 
 java -Xmx4g -jar HDA_Placement.jar
 
