@@ -30,7 +30,7 @@ Running parameters for all supported algorithms are defined in the following fil
 
 output:
 
-```console
+```shell
 <Request ID (HDA configuration ID + request serial)>:
 [mapping of HDA-graph segments to PoPs]
 -------
